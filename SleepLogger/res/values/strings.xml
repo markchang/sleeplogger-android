@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Sleep Logger</string>
+<string name="sleep">Sleep</string>
+<string name="wake">Wake</string>
+<string name="db_sleep">sleep</string>
+<string name="db_wake">wake</string>
+<string name="no_records">No Records</string>
+</resources>
